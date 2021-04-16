@@ -1,0 +1,16 @@
+html{
+    direction: rtl;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+}
+*{
+    box-sizing: inherit;
+}
+body{
+    box-sizing: border-box;
+    margin: 0;
+}
